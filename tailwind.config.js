@@ -7,7 +7,8 @@ module.exports = {
         primary: '#E76F51',
         'hero-bg': '#264653',
         paragraph: '#6C6C6C',
-        'footer-bg': '#0B0D17'
+        'footer-bg': '#0B0D17',
+        'paragraph-light': '#E0E0E0',
       },
       fontFamily: {
         poppins: "'Poppins', sans-serif"
